@@ -6,6 +6,6 @@ This article highlighted the findings of a test conducted by a few graduate prof
 ## Response from Robert Zheng
 I personally feel that the justification to use ChatGPT as a templating software and commenting that it makes "surprising" math mmistakes is largly a placating tactic to take concern away from the lack of regulation on the technology at the moment since it's being shown to be more concerningly powerful especially in the presence of human refinement.
 
-*Victoria Carroll: *
+## Victoria Carroll: 
     This article is very interesting. When I have used ChatGPT, I feel as if it is often incorrect. It makes sense that it passed, since it uses the internet as a resource for information, and it also makes sense that it did not pass with very high marks.
 
