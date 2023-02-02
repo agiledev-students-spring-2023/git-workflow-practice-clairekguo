@@ -1,2 +1,4 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+## [ChatGPT passes exams from law and business schools](https://www.cnn.com/2023/01/26/tech/chatgpt-passes-exams/index.html)
+This article highlighted the findings of a test conducted by a few graduate professors, in which ChatGPT was able to pass various law and business exams with high C to low B grades. I found this to be interesting because it introduces a whole new realm of potential drawbacks and benefits of artificial intelligence technonogies. The results of the tests showed that ChatGPT struggled with basic math and the most classic components of law exams. Given this and the fact that it was able to score grades comparable to the most average student, it raises an interesting discussion on how ChatGPT and other similar software could help students and professionals by providing a reliable starting point, rather than focusing on its use as a means of cheating. 
